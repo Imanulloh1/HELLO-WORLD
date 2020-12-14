@@ -1,2 +1,3 @@
 # HELLO-WORLD
-I'm DB001
+$apt update
+$apt upgrade 
